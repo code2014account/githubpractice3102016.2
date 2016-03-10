@@ -1,4 +1,4 @@
-# githubpractice3102016.2
+```# githubpractice3102016.2
 
 matt24ray:~/workspace $ git config --global user.name "Matt"
 matt24ray:~/workspace $ git config --global user.email mwray@gmail.com
@@ -193,3 +193,4 @@ matt24ray:~/bloc/shopping_cart (master) $ git commit -m "Add lettuce.txt"
  rename apple.txt => lettuce.txt (100%)
 matt24ray:~/bloc/shopping_cart (master) $ cat lettuce.txt
 matt24ray:~/bloc/shopping_cart (master) $ 
+```
